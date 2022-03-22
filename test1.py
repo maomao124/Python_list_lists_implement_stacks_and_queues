@@ -34,3 +34,5 @@ if __name__ == '__main__':
     print(queue)
     print(queue.pop(0))
 
+    input()
+

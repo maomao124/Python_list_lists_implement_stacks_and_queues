@@ -25,3 +25,5 @@ if __name__ == '__main__':
     print(queueAndStack.pop())
     # 再次打印列表
     print(list(queueAndStack))
+
+    input()

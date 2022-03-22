@@ -21,3 +21,5 @@ if __name__ == '__main__':
     print("取一个元素：", stack.pop())
     print("取一个元素：", stack.pop())
     print("取一个元素：", stack.pop())
+
+    input()
